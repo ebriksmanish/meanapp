@@ -1,0 +1,27 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "this is mean app , i will be creating a blog app with logins etc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebriksmanish/meanapp.git"
+  },
+  "keywords": [
+    "mean-app",
+    "angularwithnode"
+  ],
+  "author": "Manish Vashisth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebriksmanish/meanapp/issues"
+  },
+  "homepage": "https://github.com/ebriksmanish/meanapp#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6"
+  }
+}
